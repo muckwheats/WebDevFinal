@@ -1,0 +1,77 @@
+.common {
+    position: absolute;
+    font-family:"Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    font-style:  normal;
+    font-weight: bold;
+    padding-right: 20px;
+    padding-top: 10px;
+    font-size: 15px;
+    background-image: url(../images/806443-1.webp);
+    color: whitesmoke;
+    text-align: right;
+    padding-bottom: 5px;
+}
+
+.footer {
+    left: 5px;
+    right: 5px;
+    top: 4675px;
+    height: 100px;
+    padding: 5px;
+    text-align: center;
+    background-image: url(../images/806443-1.webp);
+    color: whitesmoke;
+}
+
+.main {
+    top: 125px;
+    left: 5px;
+    right: 5px;
+    border: grey solid 3px;
+    height: 4536px;
+}
+a:visited {
+    color: whitesmoke;
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+a:hover{
+    color: grey;
+}
+
+
+.caption {
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+    background-image: url(../images/806443-1.webp);
+    color:grey;
+}
+
+body {
+    background-color: rgb(66, 66, 66);
+}
+
+.pagehead {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.none {
+    font-style:normal;
+}
